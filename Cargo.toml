@@ -15,3 +15,6 @@ path = "src/main.rs"
 
 [dependencies]
 enum_dispatch = "0.3"
+# no std needs libm and alloc
+nalgebra = { version = "*", default-features = false }
+serde = { version = "1.0", features = ["derive"] }
