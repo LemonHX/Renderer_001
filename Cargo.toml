@@ -1,7 +1,7 @@
 [package]
 name = "shulsaga"
 version = "0.1.0"
-authors = ["lemonhx <lemonhx@lemonhx.tech>"]
+authors = ["Mike Gao <contact@mikegao.net>","lemonhx <lemonhx@lemonhx.tech>"]
 edition = "2018"
 
 [lib]
