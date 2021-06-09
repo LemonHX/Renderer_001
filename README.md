@@ -1,7 +1,7 @@
 # Shulsaga
 >  Shulsaga is an astral goddess in Sumerian religion
 
-![platform: Linux | Windows | macOS](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
+![platform: Linux | Windows | macOS](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue) [![CI](https://github.com/shulsaga/shulsaga/actions/workflows/main.yml/badge.svg)](https://github.com/shulsaga/shulsaga/actions/workflows/main.yml)
 
 The goal of this project is to use the Rust language to implement a Research-Oriented rendering system. Compared with other Research-Oriented renderers, we pay more attention to software engineering and code simplicity instead of extreme performance optimization, so for those who want to enter the field of graphics, this may be a better platform.
 
