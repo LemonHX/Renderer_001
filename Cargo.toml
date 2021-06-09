@@ -1,15 +1,15 @@
 [package]
-name = "renderer_001"
+name = "shulsaga"
 version = "0.1.0"
 authors = ["lemonhx <lemonhx@lemonhx.tech>"]
 edition = "2018"
 
 [lib]
-name = "librenderer_001"
+name = "libshulsaga"
 path = "src/lib.rs"
 
 [[bin]]
-name = "renderer_001_cli"
+name = "shulsaga_cli"
 path = "src/main.rs"
 
 
