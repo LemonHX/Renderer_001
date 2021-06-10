@@ -6,5 +6,6 @@ pub mod materials;
 pub mod samplers;
 pub mod shapes;
 pub mod textures;
+pub mod core;
 
 mod utils;
